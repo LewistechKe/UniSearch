@@ -12,7 +12,7 @@ const UniversityList = ({ searchTerm }) => {
     {
       id: 2,
       name: "University 2",
-      location: "Nairobi, Country",
+      location: "Nairobi, Uganda",
     },
     {
       id: 3,
@@ -24,9 +24,9 @@ const UniversityList = ({ searchTerm }) => {
       name: "University 4",
       location: "TUK, Kenya",
     },
-    
+
   ];
-  
+
 
   // Filter universities based on search term
   const filteredUniversities = Universities.filter((university) =>
