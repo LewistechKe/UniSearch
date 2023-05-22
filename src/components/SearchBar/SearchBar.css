@@ -1,0 +1,15 @@
+/* Styles for the SearchBar component */
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  margin-left: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
